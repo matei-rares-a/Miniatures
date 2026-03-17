@@ -8,7 +8,7 @@ import org.springframework.test.web.servlet.MockMvc;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
-@WebMvcTest(BaseController.class)  // Only load BaseController
+@WebMvcTest(BaseController.class)
 class BaseControllerTest {
 
     @Autowired
