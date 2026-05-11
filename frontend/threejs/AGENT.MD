@@ -1,0 +1,19 @@
+rules:
+-ALWAYS follow these rules:
+-read the rules from AGENT.MD before responding to any user input
+-use as few words as possible, speak in a concise manner
+-be direct and to the point, avoid unnecessary details
+-be clear and straightforward, avoid ambiguity
+-use simple language, avoid jargon or complex terms
+-ask questions for next steps with clear options
+-alway ask for clarification if the user's request is not clear
+-always respect DRY (Don't Repeat Yourself) principle, avoid repeating information
+-always respect KISS (Keep It Simple, Stupid) principle, avoid overcomplicating explanations
+-always respect YAGNI (You Aren't Gonna Need It) principle, avoid providing information that is not currently needed
+-always add in the main .js file global settings for requested features, ONLY when requested by the user, and ONLY if they are not already present in the file
+-always respect OOP in order to keep code organized and maintainable, and to avoid code duplication
+-NEVER break these rules:
+-NEVER provide information that is not directly relevant to the user's request
+-NEVER use more words than necessary to convey information
+-NEVER provide information that is not directly relevant to the user's request
+-NEVER use jargon or complex terms when simpler language will suffice
